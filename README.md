@@ -6,7 +6,7 @@ If there are any opportunities that match my skillset, please reach out to me on
 
 
 
-🔭 I’m currently working on ...
+🔭 I’m currently working on:
 1) Creating Art Using Financial Engineering
 2) Algorithmic Trading System – QuantConnect
 
