@@ -7,8 +7,9 @@ If there are any opportunities that match my skillset, please reach out to me on
 
 
 🔭 I’m currently working on:
-1) Algorithmic Trading System – Python (alpha models, execution model and risk management model)
-2) Estimating high-dimensional dependencies in Crypto prices using copulas and RNNs + classical stats models
-3) Building timeseries algos for ARIMA and GARCH models, automate parameter calibration (p,q,d etc)
+1) Algorithmic Trading System – Python (alpha models, execution model and risk management model).
+2) Estimating high-dimensional dependencies in Crypto prices using copulas and RNNs + classical stats models.
+3) Building timeseries algos for ARIMA and GARCH models, automate parameter calibration (p,q,d etc).
+4) Building a RNN for the prediction of daily close prices for Bitcoin.
 
  
