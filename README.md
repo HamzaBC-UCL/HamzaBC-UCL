@@ -1,8 +1,8 @@
 ### Hello 😃!
 
-I'm looking for Quant roles starting in September 2021!  
+I'm looking for Algo Quant roles!  
 I have a solid background in statistics, quant finance, programming as well as experience in model development at the Bank of England.  
-If there are any opportunities that match my skillset, please reach out to me on ucabhh1@ucl.ac.uk  
+If there are any opportunities that match my skillset, please reach out to me on hamza1997_bilal@hotmail.com 
 
 
 
